@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Copyright (c) 2022 Mulya Agung
+
 from cupyx import jit
 import cupy
 
